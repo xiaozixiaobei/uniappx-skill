@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vapor",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/app-vapor.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 102263,
+    "text_chars": 16689,
+    "sha256": "c31030374f6453fffa8370db9a2d9e861a591eb53a66df802a1eb2257be3a743",
+    "status": "verified",
+    "scope": "uni-app X App Vapor：工具/OS 门槛、组合式 API、CSS、列表复用和原生调用边界。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "components",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/component/",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 72341,
+    "text_chars": 9415,
+    "sha256": "e2314cd236acd7d664f902eb45c4b524d242e3c793e68aae94bb0e7b0a50ed81",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "list-view",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/component/list-view.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 340864,
+    "text_chars": 44098,
+    "sha256": "94f2b886acdfa4e986b8a6aee7e6a9ca4adfc61b0870f9f189527b79f152d6e1",
+    "status": "verified",
+    "scope": "列表组件基本能力；Vapor 的复用细节优先参照 app-vapor 文档。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "css",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/css/",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 135969,
+    "text_chars": 12748,
+    "sha256": "b6e2198eb37a0c826c3a75efe5404966abc5a033f3afbd36c10938d2661f051d",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "selectors",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/css/common/selector.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 97705,
+    "text_chars": 11095,
+    "sha256": "fe2c678779036b1857407060c09830f98e751300644a33ddc89b4949cd4d64ff",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "isolation",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/css/common/style-isolation.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 78794,
+    "text_chars": 11300,
+    "sha256": "cb5c0bd45b1faea4b7a77201eb850ae86f8427d0c2c5093186b79af3e7fe3a71",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  }
+]

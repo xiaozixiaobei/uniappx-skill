@@ -18,3 +18,7 @@ pnpm-debug.log*
 .DS_Store
 .idea/
 .vscode/
+
+# Local validation caches
+__pycache__/
+*.py[cod]

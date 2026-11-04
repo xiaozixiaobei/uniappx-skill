@@ -1,0 +1,4 @@
+interface:
+  display_name: "uni-app X 测试验收"
+  short_description: "按变更风险安排编译、真机、异常与性能验证，明确证据和未完成项。"
+  default_prompt: "请使用 $uniappx-quality 处理当前 uni-app X 任务，按项目实际平台和版本给出可验证结果。\n"

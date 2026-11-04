@@ -1,0 +1,4 @@
+interface:
+  display_name: "uni-app X API 与原生能力"
+  short_description: "核验网络、存储、设备接口及原生插件的模式兼容与异常处理路径。"
+  default_prompt: "请使用 $uniappx-api 处理当前 uni-app X 任务，按项目实际平台和版本给出可验证结果。\n"

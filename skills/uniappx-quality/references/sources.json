@@ -1,0 +1,50 @@
+[
+  {
+    "id": "testing",
+    "url": "https://uniapp.dcloud.net.cn/worktile/auto/hbuilderx-extension/",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 117795,
+    "text_chars": 12280,
+    "sha256": "46409cd373ce722b316ee76ef63b132ae46b31a5ff43dd5268932008cd503179",
+    "status": "verified",
+    "scope": "HBuilderX 自动化测试插件及 uni-app(x) 工程测试；命令依具体版本核实。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "vapor",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/app-vapor.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 102263,
+    "text_chars": 16689,
+    "sha256": "c31030374f6453fffa8370db9a2d9e861a591eb53a66df802a1eb2257be3a743",
+    "status": "verified",
+    "scope": "uni-app X App Vapor：工具/OS 门槛、组合式 API、CSS、列表复用和原生调用边界。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "project",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/project.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 55685,
+    "text_chars": 5398,
+    "sha256": "6e21f1f9271f375e0290d0549e35b42c309228c2d83204b7764e8fe2c356e242",
+    "status": "verified",
+    "scope": "uni-app X 工程结构、项目类型标记、HBuilderX 创建运行发行。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "app-package",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/tutorial/app-package.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 58432,
+    "text_chars": 4815,
+    "sha256": "27aaa21e670db7b18bc84de2cc0641bfb678f0e13ea4fc3ed8cc0e39bfd39efb",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  }
+]

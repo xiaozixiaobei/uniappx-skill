@@ -1,0 +1,98 @@
+[
+  {
+    "id": "app-package",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/tutorial/app-package.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 58432,
+    "text_chars": 4815,
+    "sha256": "27aaa21e670db7b18bc84de2cc0641bfb678f0e13ea4fc3ed8cc0e39bfd39efb",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "project",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/project.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 55685,
+    "text_chars": 5398,
+    "sha256": "6e21f1f9271f375e0290d0549e35b42c309228c2d83204b7764e8fe2c356e242",
+    "status": "verified",
+    "scope": "uni-app X 工程结构、项目类型标记、HBuilderX 创建运行发行。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "manifest",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/collocation/manifest.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 303493,
+    "text_chars": 17191,
+    "sha256": "87a8d13540e1e5f0e9cb9369137ae101157474c30deb9d6941967d1466c6cc14",
+    "status": "verified",
+    "scope": "uni-app X 的 manifest 配置结构；字段与模式兼容性逐项核查。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "vapor",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/app-vapor.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 102263,
+    "text_chars": 16689,
+    "sha256": "c31030374f6453fffa8370db9a2d9e861a591eb53a66df802a1eb2257be3a743",
+    "status": "verified",
+    "scope": "uni-app X App Vapor：工具/OS 门槛、组合式 API、CSS、列表复用和原生调用边界。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "harmony-build",
+    "url": "https://uniapp.dcloud.net.cn/tutorial/harmony/runbuild.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 218922,
+    "text_chars": 31934,
+    "sha256": "48df7d82715c7c7283b99758c8309068e31961d0acded3be09b953cb5c995cc6",
+    "status": "verified",
+    "scope": "仅引用公共 DevEco 签名/发行步骤；普通 uni-app 的兼容矩阵不适用于 uni-app X。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "cli",
+    "url": "https://hx.dcloud.net.cn/cli/README",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 10891,
+    "text_chars": 27,
+    "sha256": "fc32877e36aa3dbb52d655b061cbb8eb35618a01750c2b3af186d57c65bd7509",
+    "status": "entry-only",
+    "scope": "仅核实官方 CLI 入口；本轮返回页面壳，具体 CLI 命令尚未核验。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "apple-submitting",
+    "url": "https://developer.apple.com/app-store/submitting/",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 117501,
+    "text_chars": 11283,
+    "sha256": "5381e8da923be91a12f42c172d0791805a43906ab22b9489996b6344d3a7e8b5",
+    "status": "verified",
+    "scope": "提交准备流程；带生效日期的 SDK 要求在提交时另行核对，不能将未来要求提前生效。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "apple-review",
+    "url": "https://developer.apple.com/cn/app-store/review/guidelines/",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 228702,
+    "text_chars": 36158,
+    "sha256": "ede168b8984293fb1edfb957af35e54cec770fb68d63919aab960d6250ca41d2",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  }
+]

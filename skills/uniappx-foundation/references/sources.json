@@ -1,0 +1,62 @@
+[
+  {
+    "id": "project",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/project.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 55685,
+    "text_chars": 5398,
+    "sha256": "6e21f1f9271f375e0290d0549e35b42c309228c2d83204b7764e8fe2c356e242",
+    "status": "verified",
+    "scope": "uni-app X 工程结构、项目类型标记、HBuilderX 创建运行发行。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "vapor",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/app-vapor.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 102263,
+    "text_chars": 16689,
+    "sha256": "c31030374f6453fffa8370db9a2d9e861a591eb53a66df802a1eb2257be3a743",
+    "status": "verified",
+    "scope": "uni-app X App Vapor：工具/OS 门槛、组合式 API、CSS、列表复用和原生调用边界。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "manifest",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/collocation/manifest.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 303493,
+    "text_chars": 17191,
+    "sha256": "87a8d13540e1e5f0e9cb9369137ae101157474c30deb9d6941967d1466c6cc14",
+    "status": "verified",
+    "scope": "uni-app X 的 manifest 配置结构；字段与模式兼容性逐项核查。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "cli",
+    "url": "https://hx.dcloud.net.cn/cli/README",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 10891,
+    "text_chars": 27,
+    "sha256": "fc32877e36aa3dbb52d655b061cbb8eb35618a01750c2b3af186d57c65bd7509",
+    "status": "entry-only",
+    "scope": "仅核实官方 CLI 入口；本轮返回页面壳，具体 CLI 命令尚未核验。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "plugin",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/plugin/",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 35710,
+    "text_chars": 2094,
+    "sha256": "5fc70fe5c6619fbb909e949520b90191fea82444795b119478c7c9e1bbb3d8bb",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "uni-app X 打包与签名"
+  short_description: "分平台核验 Android、iOS、鸿蒙构建、应用身份、签名及正式产物。"
+  default_prompt: "请使用 $uniappx-build 处理当前 uni-app X 任务，按项目实际平台和版本给出可验证结果。\n"

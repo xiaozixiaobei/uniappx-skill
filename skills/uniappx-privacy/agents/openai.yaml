@@ -1,0 +1,4 @@
+interface:
+  display_name: "uni-app X 隐私与权限"
+  short_description: "核对隐私同意、运行时权限、第三方 SDK 数据行为及商店披露一致性。"
+  default_prompt: "请使用 $uniappx-privacy 处理当前 uni-app X 任务，按项目实际平台和版本给出可验证结果。\n"

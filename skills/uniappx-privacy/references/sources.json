@@ -1,0 +1,50 @@
+[
+  {
+    "id": "privacy-api",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/api/privacy.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 105036,
+    "text_chars": 8628,
+    "sha256": "be8487bff1619b9a894ed9b2ceed241bc6c057afd9f2c77c51894606ce5375cd",
+    "status": "verified",
+    "scope": "隐私 API、同意按钮、initPrivacyAuthorization 平台默认差异。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "manifest",
+    "url": "https://doc.dcloud.net.cn/uni-app-x/collocation/manifest.html",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 303493,
+    "text_chars": 17191,
+    "sha256": "87a8d13540e1e5f0e9cb9369137ae101157474c30deb9d6941967d1466c6cc14",
+    "status": "verified",
+    "scope": "uni-app X 的 manifest 配置结构；字段与模式兼容性逐项核查。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "apple-review",
+    "url": "https://developer.apple.com/cn/app-store/review/guidelines/",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 228702,
+    "text_chars": 36158,
+    "sha256": "ede168b8984293fb1edfb957af35e54cec770fb68d63919aab960d6250ca41d2",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  },
+  {
+    "id": "apple-privacy",
+    "url": "https://developer.apple.com/cn/app-store/app-privacy-details/",
+    "checked_on": "2026-11-04",
+    "exit": 0,
+    "bytes": 134127,
+    "text_chars": 8661,
+    "sha256": "a8f351652d8303276397a76b6fb38d2fb31032b32c01e343a96f44160c888826",
+    "status": "verified",
+    "scope": "仅限本官方文档所述主题和适用平台，运行任务时核对所用版本。",
+    "refresh": "涉及该能力时核对版本；商店规则及工具链门槛在实际发布前重新核验。"
+  }
+]

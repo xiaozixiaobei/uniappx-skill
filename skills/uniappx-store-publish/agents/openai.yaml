@@ -1,0 +1,4 @@
+interface:
+  display_name: "uni-app X 商店发布规范"
+  short_description: "统一准备上架材料，并核验 Apple 中国区与国内主要商店的规则差异。"
+  default_prompt: "请使用 $uniappx-store-publish 处理当前 uni-app X 任务，按项目实际平台和版本给出可验证结果。\n"

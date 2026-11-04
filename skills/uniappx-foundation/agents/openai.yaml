@@ -1,0 +1,4 @@
+interface:
+  display_name: "uni-app X 工程规范"
+  short_description: "规范工程初始化、渲染模式选择与跨平台开发，依据项目版本验证改动。"
+  default_prompt: "请使用 $uniappx-foundation 处理当前 uni-app X 任务，按项目实际平台和版本给出可验证结果。\n"
